@@ -1,0 +1,25 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Temporary files
+/tmp/
+/output/
+*.tmp
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
