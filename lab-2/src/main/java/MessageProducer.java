@@ -6,7 +6,6 @@ import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.common.errors.SerializationException;
 import org.apache.kafka.common.serialization.StringSerializer;
 
-import java.time.Duration;
 import java.util.Properties;
 
 @Slf4j
